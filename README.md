@@ -3,5 +3,4 @@ Projeto de modelagem de um banco de dados em grafos utilizando Neo4j para um sis
 
 
 
-![Modelo de grafo]
-(imagem_projeto.excalidraw.png)
+![Modelo de grafo](imagem2_projeto.excalidraw.png)
